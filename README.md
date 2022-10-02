@@ -1,2 +1,2 @@
 # rustlings-sol
-rustlings solutions - 2022-10
+rustlings solutions - 2022-09
